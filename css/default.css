@@ -102,8 +102,6 @@ img {
   padding: .4375rem 1.5625rem;
 }
 
-
-
 @media (min-width: 1200px) {
   .container { max-width: 1140px; }
 }
